@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Houst29476/portfolio-react/static/css/main.83d4b82c.css",
+    "main.js": "/Houst29476/portfolio-react/static/js/main.6564f13c.js",
+    "static/media/lite-speed.png": "/Houst29476/portfolio-react/static/media/lite-speed.771c1a4debb643edf9ae.png",
+    "static/media/deep-thoughts.png": "/Houst29476/portfolio-react/static/media/deep-thoughts.94ae20d97b9a6f3f9d43.png",
+    "static/media/todo-app.png": "/Houst29476/portfolio-react/static/media/todo-app.41518fc2a88874650484.png",
+    "static/media/pass-the-page.png": "/Houst29476/portfolio-react/static/media/pass-the-page.d0ca14303ef8118c2952.png",
+    "static/media/AniGame.png": "/Houst29476/portfolio-react/static/media/AniGame.5fc95ccf4de094acefa5.png",
+    "static/media/code-zone.png": "/Houst29476/portfolio-react/static/media/code-zone.a2467672264ecdf5d2c1.png",
+    "static/media/sqlite.svg": "/Houst29476/portfolio-react/static/media/sqlite.daf4a3a8609a0a94b3da.svg",
+    "static/media/react.svg": "/Houst29476/portfolio-react/static/media/react.e27571eaed899c642345.svg",
+    "static/media/jquery.svg": "/Houst29476/portfolio-react/static/media/jquery.805a7ce8514466ad45de.svg",
+    "static/media/materializecss.svg": "/Houst29476/portfolio-react/static/media/materializecss.105370479916c28f0a5a.svg",
+    "static/media/jest.svg": "/Houst29476/portfolio-react/static/media/jest.bdea2af60148e3a6f8a1.svg",
+    "static/media/mysql.svg": "/Houst29476/portfolio-react/static/media/mysql.e5a509a5d3ca7443ae6c.svg",
+    "static/media/mongodb.svg": "/Houst29476/portfolio-react/static/media/mongodb.452bfc77ef397456ac63.svg",
+    "static/media/sequelize.svg": "/Houst29476/portfolio-react/static/media/sequelize.49ad3c7d6edea9941716.svg",
+    "static/media/github-icon.svg": "/Houst29476/portfolio-react/static/media/github-icon.04ed74f38b41cdcbf14f.svg",
+    "static/media/graphql.svg": "/Houst29476/portfolio-react/static/media/graphql.61116f4fcb1318abddc3.svg",
+    "static/media/nodejs.svg": "/Houst29476/portfolio-react/static/media/nodejs.3dc364b8e9beb3561620.svg",
+    "static/media/redux.svg": "/Houst29476/portfolio-react/static/media/redux.a95675408ae17c456965.svg",
+    "static/media/handlebars.svg": "/Houst29476/portfolio-react/static/media/handlebars.19f6ed39505afc212619.svg",
+    "static/media/html-5.svg": "/Houst29476/portfolio-react/static/media/html-5.e7638e3676622c76a46e.svg",
+    "static/media/css.svg": "/Houst29476/portfolio-react/static/media/css.e7a9de36d9335d92932e.svg",
+    "static/media/bootstrap.svg": "/Houst29476/portfolio-react/static/media/bootstrap.527d0fc09fb3280153c2.svg",
+    "static/media/git-icon.svg": "/Houst29476/portfolio-react/static/media/git-icon.fd381642a8b14fec88b8.svg",
+    "static/media/javascript.svg": "/Houst29476/portfolio-react/static/media/javascript.fd46ca41839433d73577.svg",
+    "static/media/webpack.svg": "/Houst29476/portfolio-react/static/media/webpack.b460dec8736fcf92a8c7.svg",
+    "static/media/apollo.svg": "/Houst29476/portfolio-react/static/media/apollo.bf29e5990bddcdfb028d.svg",
+    "static/media/expressjs.svg": "/Houst29476/portfolio-react/static/media/expressjs.ea97b712340ffb8f11d8.svg",
+    "static/media/bulma.svg": "/Houst29476/portfolio-react/static/media/bulma.ecefb4da633f2f1f370e.svg",
+    "index.html": "/Houst29476/portfolio-react/index.html",
+    "main.83d4b82c.css.map": "/Houst29476/portfolio-react/static/css/main.83d4b82c.css.map",
+    "main.6564f13c.js.map": "/Houst29476/portfolio-react/static/js/main.6564f13c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d4b82c.css",
+    "static/js/main.6564f13c.js"
+  ]
+}
