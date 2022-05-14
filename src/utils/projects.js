@@ -1,63 +1,66 @@
-import photo1 from "../assets/images/pass-the-page.png";
-import photo2 from "../assets/images/deep-thoughts.png";
-import photo3 from "../assets/images/AniGame.png";
-import photo4 from "../assets/images/code-zone.png";
-import photo5 from "../assets/images/lite-speed.png";
-import photo6 from "../assets/images/todo-app.png";
+import photo1 from "../assets/images/aviation-quiz.jpg";
+import photo2 from "../assets/images/taskmaster-app.jpg";
+import photo3 from "../assets/images/workday-scheduler.jpg";
+import photo4 from "../assets/images/pizza-hunt.jpg";
+import photo5 from "../assets/images/zoo-keeper.png";
+import photo6 from "../assets/images/dancing-platypus.jpg";
 
 export const PROJECTS = [
   {
-    title: "Lite Speed",
-    url: "https://lite-speed.herokuapp.com/",
-    repo: "lite-speed",
-    image: photo5,
+    title: "Code Quiz",
+    url: "https://houst29476.github.io/code-quiz/",
+    repo: "code-quiz",
+    image: photo1,
     features:
       "Full-Stack MERN App, JavaScript, React, Express.js, Node.js, MongoDB, Mongoose, GraphQL, Apollo Server, JWT",
     type: "full-stack",
   },
   {
-    title: "Pass the Page",
-    url: "https://passthepage.herokuapp.com/",
-    repo: "pass-the-page",
-    image: photo1,
+    title: "Dancing Platypus",
+    url: "https://mighty-plateau-48959.herokuapp.com/",
+    repo: "dancing-platypus",
+    image: photo6,
     features:
-      "Full-Stack, JavaScript, Express.js, Node.js, MySQL, Sequelize, RESTful API, CSS, Bootstrap, Handlebars, MVC",
+      "Full-Stack, JavaScript, Express.js, Node.js, MySQL, Sequelize, RESTful API, CSS, MVC",
     type: "full-stack",
   },
   {
-    title: "AniGame",
-    url: "https://tomchestnut.dev/anigame-react/",
-    repo: "anigame-react",
+    title: "Workday Scheduler",
+    url: "https://github.com/Houst29476/workday-scheduler",
+    repo: "workday-scheduler",
     image: photo3,
     features:
       "React, JavaScript, CSS Modules, Bulma Library, GameSpot API, Kitsu API",
     type: "front-end",
   },
   {
-    title: "ToDo App",
-    url: "https://todoapp-tc.herokuapp.com/",
-    repo: "to-do-app",
-    image: photo6,
+    title: "Pizza Hunt",
+    url: "https://github.com/houst29476/pizza-hunt",
+    repo: "pizza-hunt",
+    image: photo4,
     features:
       "Full-Stack MERN App, JavaScript, React, React Context, Express.js, Node.js, MongoDB, RESTful API, JWT/bcrypt for Auth",
     type: "full-stack",
   },
   {
-    title: "Deep Thoughts",
-    url: "https://deepthoughts-tc.herokuapp.com/",
-    repo: "deep-thoughts",
-    image: photo2,
+    title: "Zoo Keeper",
+    url: "https://zookeepr-houst29476.herokuapp.com/",
+    repo: "zookeepr",
+    image: photo5,
     features:
       "Full-Stack MERN App, JavaScript, React, Express.js, Node.js, MongoDB, Mongoose, GraphQL, Apollo Server, JWT",
     type: "full-stack",
   },
   {
-    title: "Code Zone",
-    url: "https://code-zone.herokuapp.com/",
-    repo: "code-zone",
-    image: photo4,
+    title: "Taskmaster Pro",
+    url: "https://houst29476.github.io/taskmaster-pro/",
+    repo: "taskmaster-pro",
+    image: photo2,
     features:
-      "Full-Stack, JavaScript, Express.js, Node.js, MySQL, Sequelize, RESTful API, CSS, MVC",
+      "Full-Stack, JavaScript, Express.js, Node.js, MySQL, Sequelize, RESTful API, CSS, Bootstrap, Handlebars, MVC",
     type: "full-stack",
   },
 ];
+
+
+

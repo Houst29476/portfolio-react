@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Houst29476/portfolio-react/static/css/main.83d4b82c.css",
-    "main.js": "/Houst29476/portfolio-react/static/js/main.6564f13c.js",
+    "main.css": "/Houst29476/portfolio-react/static/css/main.0b07fdc2.css",
+    "main.js": "/Houst29476/portfolio-react/static/js/main.93b30aa2.js",
     "static/media/lite-speed.png": "/Houst29476/portfolio-react/static/media/lite-speed.771c1a4debb643edf9ae.png",
     "static/media/deep-thoughts.png": "/Houst29476/portfolio-react/static/media/deep-thoughts.94ae20d97b9a6f3f9d43.png",
     "static/media/todo-app.png": "/Houst29476/portfolio-react/static/media/todo-app.41518fc2a88874650484.png",
@@ -31,11 +31,11 @@
     "static/media/apollo.svg": "/Houst29476/portfolio-react/static/media/apollo.bf29e5990bddcdfb028d.svg",
     "static/media/expressjs.svg": "/Houst29476/portfolio-react/static/media/expressjs.ea97b712340ffb8f11d8.svg",
     "static/media/bulma.svg": "/Houst29476/portfolio-react/static/media/bulma.ecefb4da633f2f1f370e.svg",
-    "main.83d4b82c.css.map": "/Houst29476/portfolio-react/static/css/main.83d4b82c.css.map",
-    "main.6564f13c.js.map": "/Houst29476/portfolio-react/static/js/main.6564f13c.js.map"
+    "main.0b07fdc2.css.map": "/Houst29476/portfolio-react/static/css/main.0b07fdc2.css.map",
+    "main.93b30aa2.js.map": "/Houst29476/portfolio-react/static/js/main.93b30aa2.js.map"
   },
   "entrypoints": [
-    "static/css/main.83d4b82c.css",
-    "static/js/main.6564f13c.js"
+    "static/css/main.0b07fdc2.css",
+    "static/js/main.93b30aa2.js"
   ]
 }

@@ -247,7 +247,7 @@ nav li {
   font-size: 15px;
   margin: 0 15% 0 15%;
   font-weight: bolder;
-  background-color: var(--thirdColor);
+  background-color: var(--fontSecond);
   border-radius: 5px;
   transition: background-color 0.25s ease-in-out;
 }
@@ -466,7 +466,7 @@ textarea {
   text-align: center;
   padding: 3% 5% 0 5%;
   margin: 3rem 30% 25px 30%;
-  color: var(--fontColor);
+  color: var(--secondColor);
   background-color: var(--primaryColor);
   border-bottom: 1px solid var(--fontColor);
 }
@@ -475,7 +475,7 @@ textarea {
   text-align: center;
   padding: 0 5% 0 5%;
   margin: 0 30% 25px 30%;
-  color: var(--fontColor);
+  color: var(--secondColor);
 }
 
 .flex {

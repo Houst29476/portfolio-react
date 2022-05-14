@@ -21,7 +21,7 @@ function About() {
   return (
     <section>
       <h2 className="heading">Hello! I'm Brad.</h2>
-      <h3 className="sub-heading">Full Stack JavaScript Developer</h3>
+      <h3 className="sub-heading">MERN Full-Stack Developer</h3>
       <div className="bio-container">
         <img
           className="my-pic"
@@ -30,16 +30,18 @@ function About() {
         />
 
         <article className="bio">
-          I'm a Full Stack JavaScript Developer specializing in the MERN stack
+          I'm a MERN Full-Stack Developer specializing in the MERN stack
           and skilled in creating responsive web applications. I've earned a
           Full Stack Development Certificate from University of Texas Austin
           Coding Bootcamp.
+          <br />
           <br />
           I have created multiple projects using front-end technology such as
           JavaScript, React, HTML, and CSS as well as back-end tools like
           Node.js, Express.js, MongoDB, GraphQL and MySQL while following to
           development methods such as Agile development, RESTful APIs, MVC
           structure and Single Page Applications (SPAs).
+          <br />
           <br />
           I am also the CEO of Set For Marriage. A global dating platform for
           singles who are beyond casual online dating and ready to settle down

@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Houst29476/portfolio-react",
   "name": "portfolio-react",
   "version": "1.0.0",
   "description": "",
@@ -13,19 +14,19 @@
   "bugs": {
     "url": "https://github.com/Houst29476/portfolio-react/issues"
   },
-  "homepage": "https://github.com/Houst29476/portfolio-react#readme",
+  
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "@fortawesome/free-regular-svg-icons": "^5.15.1",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.14",
-    "@testing-library/user-event": "^12.6.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -54,8 +55,8 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.2.2",
-    "gh-pages": "^3.1.0"
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^11.2.7",
+    "gh-pages": "^3.2.3"
   }
 }

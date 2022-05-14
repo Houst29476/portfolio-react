@@ -4,7 +4,7 @@ import React from "react";
 function Nav({ sections, currentSection, setCurrentSection }) {
   return (
     <nav className="navbar">
-      <h1 className="my-name">Tom Chestnut</h1>
+      <h1 className="my-name">Bradley Boyd</h1>
       <ul className="flex space-a">
         {sections.map((section) => (
           <NavItem
