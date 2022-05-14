@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 function About() {
-  const githubEndpoint = "https://api.github.com/users/houst29476";
+  const githubEndpoint = "https://api.github.com/users/Houst29476";
   const [githubData, setGithubData] = useState("");
 
   useEffect(() => {
@@ -26,13 +26,13 @@ function About() {
         <img
           className="my-pic"
           src={githubData.avatar_url}
-          alt="Tom Chestnut holding his pug Frodo in front of a stream."
+          alt="Bradley Boyd bio pic."
         />
 
         <article className="bio">
           I'm a Full Stack JavaScript Developer specializing in the MERN stack
           and skilled in creating responsive web applications. I've earned a
-          Full Stack Development Certificate from University of Pennsylvania LPS
+          Full Stack Development Certificate from University of Texas Austin
           Coding Bootcamp.
           <br />
           I have created multiple projects using front-end technology such as
@@ -41,11 +41,11 @@ function About() {
           development methods such as Agile development, RESTful APIs, MVC
           structure and Single Page Applications (SPAs).
           <br />
-          When I'm not coding, I spend time going for hikes with my wife and our
-          pug, or I may be playing video games like Skyrim, Legend of Zelda, or
-          Assasin's Creed. I also enjoy traveling when able to, having visited
-          Japan and Italy in the past and hope to see more countries in the
-          future.
+          I am also the CEO of Set For Marriage. A global dating platform for
+          singles who are beyond casual online dating and ready to settle down
+          and looking for Marriage. I took this idea from concept all the way 
+          to market with Apps on the app stores. Today, we have thousands of
+          people signing up every day!                    
         </article>
       </div>
     </section>
