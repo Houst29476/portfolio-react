@@ -92,7 +92,7 @@ export const SKILLS = [
   {
     name: "Git",
     file: "git-icon.svg",
-    type: "other",
+    type: "back-end",
   },
   {
     name: "Webpack",
