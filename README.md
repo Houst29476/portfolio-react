@@ -34,7 +34,7 @@
   
   ## Contact
   Please visit my **[GitHub profile](https://github.com/houst29476/)** to check out this and other projects I've created and contributed to.
-  Contact me at **thomaschestnut00@gmail.com** with any questions or if you'd like to collaborate.
+  Contact me at **bradley.boyd@gmail.com** with any questions or if you'd like to collaborate.
 
   ## Links
   - **[Deployed App](https://houst29476.github.io/react-portfolio/)**
