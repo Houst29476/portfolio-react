@@ -26,7 +26,7 @@ function Resume() {
         {frontendSkills.map((skill) => (
           <div key={skill.name} className="skill-div flex space-b">
             <img
-              src={require(`../../assets/skill-icons/${skill.file}`).default}
+              src={require(`../../assets/skill-icons/${skill.file}`)}
               className="skill-icon"
               alt={`Icon for ${skill.name}`}
             />
@@ -39,7 +39,7 @@ function Resume() {
         {backendSkills.map((skill) => (
           <div key={skill.name} className="skill-div flex space-b">
             <img
-              src={require(`../../assets/skill-icons/${skill.file}`).default}
+              src={require(`../../assets/skill-icons/${skill.file}`)}
               className="skill-icon"
               alt={`Icon for ${skill.name}`}
             />
